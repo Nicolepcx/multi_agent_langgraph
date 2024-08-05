@@ -1,0 +1,12 @@
+langchain_core
+tavily-python
+langchain==0.2.12
+langgraph==0.1.19
+langchain_community==0.2.10
+langchain_experimental==0.0.63
+langchain_openai==0.1.20
+langchain_fireworks==0.1.7
+python-dotenv==1.0.1
+google-search-results==2.4.2
+exa-py==1.0.17
+
